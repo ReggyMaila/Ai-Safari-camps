@@ -1,0 +1,41 @@
+
+AI in the Real World — Judge the Bot
+
+By Reginald, Responsible AI Inspector
+
+Case 1: The Suspicious Hiring Bot
+What’s happening
+
+A company uses an AI system to screen job applicants.
+ The AI looks at resumes and decides who moves forward in the hiring process.
+ Sounds efficient, right?
+
+What’s problematic ⚠️
+
+The bot has learned patterns from old hiring data — which means it’s copying human biases.
+ For example, it tends to reject more female applicants if they had career gaps (like maternity leave). 
+That’s unfair because the AI is punishing people for life choices that don’t affect their job skills.
+
+How to fix it 💡
+
+The company should audit the AI with fairness checks — making sure gender, age, or background don’t unfairly affect outcomes. 
+They could also create a transparency report that explains why each decision was made, so applicants know what’s happening behind the curtain.
+
+
+Case 2: The Overzealous School Proctoring AI
+What’s happening
+
+During online exams, a school uses AI software to watch students through their webcams. 
+If a student looks away too often, the AI flags them as “cheating.”
+
+What’s problematic ⚠️
+
+The bot can’t tell the difference between suspicious behavior and natural differences. 
+Students with ADHD, autism, or anxiety might move their eyes or bodies more, and they end up unfairly flagged.
+ Instead of catching cheaters, the AI is sometimes punishing neurodivergent students for being themselves.
+
+How to fix it 💡
+
+The school should stop relying only on the AI’s judgment.
+ Instead, use it as a helper tool, and have a human teacher review suspicious cases before labeling someone a cheater. 
+ This adds accountability and reduces harm to students.
